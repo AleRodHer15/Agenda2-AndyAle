@@ -1,0 +1,83 @@
+ @charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#t1 {
+    background-color: #F4C4AA;
+    padding: 10px;
+}
+#t2 {
+    background-image: url(../imagenes/texturafondo2.png);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 p img {
+    float: left;
+    padding-right: 10px;
+
+}
+#t3 {
+    background-color: #F4C4AA;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-image: url(../imagenes/texturafondo2.png);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #F4C4AA;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 p img {
+    float: right;
+    margin-right: 10px;
+}
+#t5 li img {
+    float: right;
+    margin-right: 10px;
+}
+#t6 {
+    background-image: url(../imagenes/texturafondo2.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t6 p img {
+    margin-right: 10px;
+    float: right;
+}
+#t7 {
+    background-color: #F4C4AA;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t7 p img {
+    float: left;
+    margin-right: 10px;
+}
+#menu {
+    background-color: #9185FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	position: fixed;
+}
+#t6 {
+    background-image: url(../imagenes/texturafondo2.png);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
